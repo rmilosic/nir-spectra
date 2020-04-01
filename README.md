@@ -1,6 +1,6 @@
-= Assignment: nir-spectra
+# Assignment: nir-spectra
 
-== Predicting a quantity of interest from spectral data
+## Predicting a quantity of interest from spectral data
 
 Near infra-red spectroscopy is a technique used in a number of industries, including food and agrochemical quality control. The goal is to determine a quantity of interest, for instance, protein content of milk, from spectrometer measurements.
 
